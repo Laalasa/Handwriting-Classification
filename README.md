@@ -26,3 +26,16 @@ https://github.com/Laalasa/Handwriting-Classification
 - TensorFlow
 - Jupyter Notebook
 - Python
+
+***
+
+### Week Wise Progress
+Weekly Topics covered
+- W-1(5/01-10/01)--- Python and Libraries
+- W-2(11/01-20/01)--- Machine Learning
+- W-3(21/01-30/01)---- Deep Learning and CNN
+- W-4(31/01-5/02)---- Research on project, dataset downloading and preproceesing
+- W-5(6/02-13/02)--- Implementation of project
+- W-6(14/02-19/02)--- Completion of project and Report completion
+
+***
